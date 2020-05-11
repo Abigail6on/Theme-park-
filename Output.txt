@@ -1,0 +1,1030 @@
+				--------------------------------------
+				      Case 1 - One Side Door
+				--------------------------------------
+
+
+Number of Trains = 1
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 15	trainUtilization[tid = 0] = 6.4501865734393435
+
+
+Number of Trains = 1
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 16	trainUtilization[tid = 0] = 2.521336877753206
+PercentType1 = 96.40174626551652 PercentType2 = 1.7736166631601094 PercentType3 = 1.2081843046496954 PercentType4 = 0.6164527666736798
+ Total Cost = $/day 8800.0
+
+Number of Trains = 2
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 6.2516774036495635
+RG.Train[tid = 1].numCar = 7	trainUtilization[tid = 1] = 47.99245591407715
+
+
+Number of Trains = 2
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 2.646256121192296
+RG.Train[tid = 1].numCar = 8	trainUtilization[tid = 1] = 21.914218609197107
+
+
+Number of Trains = 2
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.8289014278870488
+RG.Train[tid = 1].numCar = 9	trainUtilization[tid = 1] = 17.8240002254546
+
+
+Number of Trains = 2
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.145
+RG.Train[tid = 1].numCar = 10	trainUtilization[tid = 1] = 11.094127869839628
+
+
+Number of Trains = 2
+Number of Cars = 19
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.020553540988050067
+RG.Train[tid = 1].numCar = 11	trainUtilization[tid = 1] = 8.33713189523002
+PercentType1 = 94.52379064234736 PercentType2 = 2.989558551414221 PercentType3 = 2.3191250330425586 PercentType4 = 0.16752577319587628
+ Total Cost = $/day 11100.0
+
+Number of Trains = 3
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 6.988330311037368
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 16.043055992653173
+RG.Train[tid = 2].numCar = 5	trainUtilization[tid = 2] = 21.149689733255734
+
+
+Number of Trains = 3
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 3.0894700748463695
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 9.669431496763906
+RG.Train[tid = 2].numCar = 6	trainUtilization[tid = 2] = 12.19896230387722
+
+
+Number of Trains = 3
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 1.1955247700090428
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 5.027351106110247
+RG.Train[tid = 2].numCar = 7	trainUtilization[tid = 2] = 5.228152760498108
+PercentType1 = 96.26758880941946 PercentType2 = 2.745848903609926 PercentType3 = 0.900710276133523 PercentType4 = 0.08585201083705711
+ Total Cost = $/day 10900.0
+
+Number of Trains = 4
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 7.0362550753145
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 11.056156392142976
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 8.528773928420984
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 10.015793015530095
+
+
+Number of Trains = 4
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 3.452699336063035
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 7.330804514436854
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.95471601631275
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 6.687401356317331
+PercentType1 = 93.54188613015356 PercentType2 = 4.422974365631346 PercentType3 = 1.6128649898233607 PercentType4 = 0.42227451439173747
+ Total Cost = $/day 11200.0
+
+Number of Trains = 5
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 20.01293712649223
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 23.46745066929835
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 15.026494575313768
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 8.48649563181784
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 10.455783527475734
+
+
+Number of Trains = 5
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.194227094912359
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 11.028376269993323
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 10.58788278080442
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 4.315048026457393
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 4.927634673302063
+
+
+Number of Trains = 5
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 7.245819834595565
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 10.167979530177458
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 9.563586566402922
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 2.8455593367057412
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 1.9203953267086349
+PercentType1 = 93.0301526510827 PercentType2 = 4.944565348962409 PercentType3 = 1.9533706887507052 PercentType4 = 0.07191131120416794
+ Total Cost = $/day 12500.0
+
+Number of Trains = 6
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.51067817942974
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 29.962643190906185
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 19.297382343639185
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 11.393089853719275
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 8.104452301428193
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 21.716650359723666
+
+
+Number of Trains = 6
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.830956223253155
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 13.85936858739873
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 15.858891654113346
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 7.546657474833739
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 3.864905491989451
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 11.501757871464749
+
+
+Number of Trains = 6
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 4.61264824292899
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 8.930209696016936
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.393598418918588
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 6.054467842503478
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 1.6391877701229831
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 6.549309377731694
+PercentType1 = 94.77952286752038 PercentType2 = 4.063466875446538 PercentType3 = 1.0970709305962094 PercentType4 = 0.059939326436856157
+ Total Cost = $/day 13300.0
+
+Number of Trains = 7
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.498049955309071
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 31.32657463323025
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 50.45077817987813
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 10.656733831953089
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 7.690912643750956
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 19.38306400038161
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 33.52072662341559
+
+
+Number of Trains = 7
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.70762479043756
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 23.69633904235625
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 16.604535166587066
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 8.293799005677432
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 4.982233243744716
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 16.43560103576545
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 9.595346909326633
+
+
+Number of Trains = 7
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 4.666569617583051
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 10.393935134465142
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 14.551050896526164
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 6.273185806255333
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 1.9464351210840996
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 7.090769357728648
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 8.61274471624944
+PercentType1 = 93.40532472472442 PercentType2 = 4.912724352722649 PercentType3 = 1.6232348278381459 PercentType4 = 0.058716094714777914
+ Total Cost = $/day 14100.0
+
+Number of Trains = 8
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 16.145965786717024
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 26.941990296463793
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 25.921092901209413
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 13.184147940358802
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 9.859997220029593
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 18.286109706218006
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 15.163401775924328
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 16.098687146824297
+
+
+Number of Trains = 8
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 9.24002482682751
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 12.537296067239494
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 21.859765281041657
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 8.550087053031346
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 5.39003817400472
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 8.22665708310631
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 10.824453270311448
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 10.001737026690728
+PercentType1 = 90.4316845203521 PercentType2 = 6.877745756069759 PercentType3 = 2.3226996838135365 PercentType4 = 0.36787003976459987
+ Total Cost = $/day 14400.0
+
+
+
+				--------------------------------------
+				      Case 2 - Two Side Door
+				--------------------------------------
+
+
+Number of Trains = 1
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 15	trainUtilization[tid = 0] = 14.394850701408775
+
+
+Number of Trains = 1
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 16	trainUtilization[tid = 0] = 7.514266637116714
+
+
+Number of Trains = 1
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 17	trainUtilization[tid = 0] = 3.943896666105234
+PercentType1 = 95.53083503575077 PercentType2 = 1.5736721144024517 PercentType3 = 1.9397982635342177 PercentType4 = 0.9556945863125639
+ Total Cost = $/day 9640.0
+
+Number of Trains = 2
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 11.124307086581009
+RG.Train[tid = 1].numCar = 7	trainUtilization[tid = 1] = 55.18819478648656
+
+
+Number of Trains = 2
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 7.150021101612173
+RG.Train[tid = 1].numCar = 8	trainUtilization[tid = 1] = 20.48242486360795
+
+
+Number of Trains = 2
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 3.699680050497777
+RG.Train[tid = 1].numCar = 9	trainUtilization[tid = 1] = 20.16450754433206
+
+
+Number of Trains = 2
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 1.558035599113437
+RG.Train[tid = 1].numCar = 10	trainUtilization[tid = 1] = 13.088178918594153
+
+
+Number of Trains = 2
+Number of Cars = 19
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.33333333333333337
+RG.Train[tid = 1].numCar = 11	trainUtilization[tid = 1] = 9.23103000546513
+PercentType1 = 93.84379165873166 PercentType2 = 2.5076969466133425 PercentType3 = 2.9722116422268767 PercentType4 = 0.6762997524281088
+ Total Cost = $/day 11480.0
+
+Number of Trains = 3
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 15.806427227317613
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 21.158759087165297
+RG.Train[tid = 2].numCar = 5	trainUtilization[tid = 2] = 27.3453791243284
+
+
+Number of Trains = 3
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 8.790589858424308
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 13.918119420030681
+RG.Train[tid = 2].numCar = 6	trainUtilization[tid = 2] = 13.737110459147269
+
+
+Number of Trains = 3
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 4.444592283760411
+RG.Train[tid = 1].numCar = 6	trainUtilization[tid = 1] = 9.662479162635245
+RG.Train[tid = 2].numCar = 6	trainUtilization[tid = 2] = 11.981778337488453
+
+
+Number of Trains = 3
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 2.3338028083119107
+RG.Train[tid = 1].numCar = 6	trainUtilization[tid = 1] = 4.551692942344547
+RG.Train[tid = 2].numCar = 7	trainUtilization[tid = 2] = 7.533101668204691
+PercentType1 = 95.78496383504456 PercentType2 = 2.257542018722808 PercentType3 = 1.6951810601465933 PercentType4 = 0.26231308608600157
+ Total Cost = $/day 11760.0
+
+Number of Trains = 4
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 13.341253529462028
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 14.386365353039142
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 14.256318128567239
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 18.505752897308522
+
+
+Number of Trains = 4
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 10.087340320379496
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 10.807226906145795
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 9.2488758951553
+RG.Train[tid = 3].numCar = 4	trainUtilization[tid = 3] = 9.395976435792848
+
+
+Number of Trains = 4
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 5.141923036156628
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 7.126915930462547
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.80266303590994
+RG.Train[tid = 3].numCar = 4	trainUtilization[tid = 3] = 5.289511354932508
+PercentType1 = 94.34523477947903 PercentType2 = 2.8378665390375657 PercentType3 = 2.0110979828683524 PercentType4 = 0.8058006986150573
+ Total Cost = $/day 12040.0
+
+Number of Trains = 5
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 32.52202065824259
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 37.677626780443816
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 19.17782159215519
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 17.279101353397074
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 19.328272941444506
+
+
+Number of Trains = 5
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 17.502833499039202
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 12.33204914257768
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 14.27177923285283
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 10.50400442613964
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 11.795289144510342
+
+
+Number of Trains = 5
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 10.821012517868315
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 11.428121369014805
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 10.440450411610005
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 5.882020555584438
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 6.962468092132937
+
+
+Number of Trains = 5
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 6.058287140679844
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 8.770617995391246
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 7.9203890696200405
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 3.1922068156557826
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 3.4016294363818202
+PercentType1 = 94.89891462122812 PercentType2 = 2.525665075736756 PercentType3 = 2.362264436565093 PercentType4 = 0.21315586647003698
+ Total Cost = $/day 13360.0
+
+Number of Trains = 6
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 22.166748214926084
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 41.309032117564584
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 23.321952486949222
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 18.01635060435786
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 17.865940500894716
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 35.531544301907346
+
+
+Number of Trains = 6
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 14.039871046812436
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 14.466134767952855
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 20.02393076760033
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 12.338106262041496
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 11.779144871339152
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 17.727093187297633
+
+
+Number of Trains = 6
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.017824696335214
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 11.551145823319809
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 8.038897217006044
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 8.241068684464722
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 6.842402031580832
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 12.369564384611262
+
+
+Number of Trains = 6
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 4.86686842945006
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 9.389122659799948
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.815163429386844
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 5.755612609682088
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 3.907441215147125
+RG.Train[tid = 5].numCar = 3	trainUtilization[tid = 5] = 6.021960140127851
+PercentType1 = 95.28277150500612 PercentType2 = 2.709890609433202 PercentType3 = 1.7640738646567375 PercentType4 = 0.24326402090394894
+ Total Cost = $/day 14160.0
+
+Number of Trains = 7
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 18.21030609270722
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 39.139693375993815
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 52.71199324182427
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 16.021937219984096
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 14.48748143231571
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 29.207218213588305
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 47.471569358703576
+
+
+Number of Trains = 7
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.78323338022716
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 26.655059471200325
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 21.9944569226319
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 11.424113313168114
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 11.62669445661796
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 23.474925559486273
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 19.60587698159616
+
+
+Number of Trains = 7
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.191199857251494
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 12.836757722304515
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 15.63969731760138
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 7.956869897544349
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 7.544507660281416
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 12.583601636401012
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 14.01866257945716
+
+
+Number of Trains = 7
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 4.746031183195829
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 8.151695862817046
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 7.0166200191666706
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 6.021072124769347
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 3.966033322338018
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 7.1750132071665345
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 6.853991605168559
+PercentType1 = 96.18159034529418 PercentType2 = 2.4707834288786144 PercentType3 = 1.2634078858167175 PercentType4 = 0.08421834001048388
+ Total Cost = $/day 14960.0
+
+Number of Trains = 8
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 24.575935280863
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 32.71574188267962
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 26.480175697786102
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 19.37179083401597
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 19.01863623449595
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 27.644137993484613
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 22.043081921726987
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 29.079428607644143
+
+
+Number of Trains = 8
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 14.176700454146324
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 14.776612523787463
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 25.59136940632708
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 12.785065707731185
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 10.970306151412046
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 14.02396173754374
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 21.82685523697519
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 20.28356966889295
+
+
+Number of Trains = 8
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 9.078936141166817
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 10.1727784405663
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 10.456958480179292
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 9.168827391510934
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 6.684970436546489
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 9.423691505694054
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 8.789639099634726
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 17.5326604883209
+PercentType1 = 93.56382653879179 PercentType2 = 3.567666138997226 PercentType3 = 2.4136813911460453 PercentType4 = 0.45482593106495595
+ Total Cost = $/day 15240.0
+
+
+
+
+				--------------------------------------
+				Case 3 - Alternate Logic/One Side Door
+				--------------------------------------
+
+
+Number of Trains = 1
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 15	trainUtilization[tid = 0] = 6.4501865734393435
+
+
+Number of Trains = 1
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 16	trainUtilization[tid = 0] = 2.521336877753206
+PercentType1 = 96.40174626551652 PercentType2 = 1.7736166631601094 PercentType3 = 1.2081843046496954 PercentType4 = 0.6164527666736798
+ Total Cost = $/day 8800.0
+
+Number of Trains = 2
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 6.2516774036495635
+RG.Train[tid = 1].numCar = 7	trainUtilization[tid = 1] = 47.99245591407715
+
+
+Number of Trains = 2
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 2.646256121192296
+RG.Train[tid = 1].numCar = 8	trainUtilization[tid = 1] = 21.914218609197107
+
+
+Number of Trains = 2
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.8289014278870488
+RG.Train[tid = 1].numCar = 9	trainUtilization[tid = 1] = 17.8240002254546
+
+
+Number of Trains = 2
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.145
+RG.Train[tid = 1].numCar = 10	trainUtilization[tid = 1] = 11.094127869839628
+
+
+Number of Trains = 2
+Number of Cars = 19
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.020553540988050067
+RG.Train[tid = 1].numCar = 11	trainUtilization[tid = 1] = 8.33713189523002
+PercentType1 = 94.52379064234736 PercentType2 = 2.989558551414221 PercentType3 = 2.3191250330425586 PercentType4 = 0.16752577319587628
+ Total Cost = $/day 11100.0
+
+Number of Trains = 3
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 6.988330311037368
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 16.043055992653173
+RG.Train[tid = 2].numCar = 5	trainUtilization[tid = 2] = 21.149689733255734
+
+
+Number of Trains = 3
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 3.0894700748463695
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 9.669431496763906
+RG.Train[tid = 2].numCar = 6	trainUtilization[tid = 2] = 12.19896230387722
+
+
+Number of Trains = 3
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 1.1955247700090428
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 5.027351106110247
+RG.Train[tid = 2].numCar = 7	trainUtilization[tid = 2] = 5.228152760498108
+PercentType1 = 96.26758880941946 PercentType2 = 2.745848903609926 PercentType3 = 0.900710276133523 PercentType4 = 0.08585201083705711
+ Total Cost = $/day 10900.0
+
+Number of Trains = 4
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 7.0362550753145
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 11.056156392142976
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 8.528773928420984
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 10.015793015530095
+
+
+Number of Trains = 4
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 3.452699336063035
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 7.330804514436854
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.95471601631275
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 6.687401356317331
+PercentType1 = 93.54188613015356 PercentType2 = 4.422974365631346 PercentType3 = 1.6128649898233607 PercentType4 = 0.42227451439173747
+ Total Cost = $/day 11200.0
+
+Number of Trains = 5
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 18.661418430532247
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 30.987296180586764
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 16.01737892563596
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 9.672300902557422
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 9.01326684939432
+
+
+Number of Trains = 5
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 12.72130501179426
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 12.887083894766656
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 14.03915414448986
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 5.927428113670537
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 4.651830139217905
+
+
+Number of Trains = 5
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 7.886051570959012
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 8.058398600967632
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 5.233484293850228
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 4.002953759112433
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 1.8012787024091916
+PercentType1 = 94.23784867078129 PercentType2 = 4.464541310665683 PercentType3 = 1.2310529594850923 PercentType4 = 0.06655705906795178
+ Total Cost = $/day 12500.0
+
+Number of Trains = 6
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.127781555393094
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 23.09082580412209
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 22.740934235474622
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 19.863584698372
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 8.318257282268654
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 17.31228583260979
+
+
+Number of Trains = 6
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.035700285913665
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 13.32710248247966
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 21.48620585877633
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 14.43867382453195
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 3.582321673527776
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 10.402709065911647
+
+
+Number of Trains = 6
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 4.347618170265901
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 9.465243237195052
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 9.447619942848096
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 11.160253165266543
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 1.4316088452535116
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 6.035847048279983
+PercentType1 = 93.0505454507712 PercentType2 = 5.170204917730514 PercentType3 = 1.6894835639590753 PercentType4 = 0.08976606753923504
+ Total Cost = $/day 13300.0
+
+Number of Trains = 7
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.555804830797126
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 28.70711964790906
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 25.775749865075067
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 19.282860942196333
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 9.153858287980917
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 16.713557580161037
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 16.75357306747451
+
+
+Number of Trains = 7
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.163670231877896
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 14.993591298365024
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 22.74759557727597
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 14.442415907743086
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 4.307588981555265
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 11.008704328117766
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 12.860944178668195
+
+
+Number of Trains = 7
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 5.109257670148873
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 9.672652781943212
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 10.300549005923942
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 11.555923816306692
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 2.052329796740841
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 6.441358897511239
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 6.71765085684599
+PercentType1 = 93.34659760558334 PercentType2 = 5.073405594833213 PercentType3 = 1.4995115514793294 PercentType4 = 0.08048524810411387
+ Total Cost = $/day 14100.0
+
+Number of Trains = 8
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 16.778677513612045
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 23.80280580164196
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 19.914197437909902
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 13.27147535849572
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 11.1658122042891
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 14.113403152499112
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 11.694234115675792
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 16.110674359809728
+
+
+Number of Trains = 8
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 10.366566910061545
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 11.67264757577888
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 16.028495988144186
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 8.130961405921308
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 5.502034081498157
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 7.504231597720799
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 8.862067068826137
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 9.458704097086859
+PercentType1 = 91.61446031500687 PercentType2 = 6.100890465840973 PercentType3 = 2.0005945961178417 PercentType4 = 0.2840546230343445
+ Total Cost = $/day 14400.0
+
+
+
+
+				--------------------------------------
+				Case 4 - Alternate Logic/two Side Door
+				--------------------------------------
+
+
+Number of Trains = 1
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 15	trainUtilization[tid = 0] = 14.394850701408775
+
+
+Number of Trains = 1
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 16	trainUtilization[tid = 0] = 7.514266637116714
+
+
+Number of Trains = 1
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 17	trainUtilization[tid = 0] = 3.943896666105234
+PercentType1 = 95.53083503575077 PercentType2 = 1.5736721144024517 PercentType3 = 1.9397982635342177 PercentType4 = 0.9556945863125639
+ Total Cost = $/day 9640.0
+
+Number of Trains = 2
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 10.917843071628674
+RG.Train[tid = 1].numCar = 7	trainUtilization[tid = 1] = 55.17462614112458
+
+
+Number of Trains = 2
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 7.1133544349455065
+RG.Train[tid = 1].numCar = 8	trainUtilization[tid = 1] = 20.446510776019856
+
+
+Number of Trains = 2
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 3.699680050497777
+RG.Train[tid = 1].numCar = 9	trainUtilization[tid = 1] = 20.16450754433206
+
+
+Number of Trains = 2
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 1.558035599113437
+RG.Train[tid = 1].numCar = 10	trainUtilization[tid = 1] = 13.088178918594153
+
+
+Number of Trains = 2
+Number of Cars = 19
+---------------
+RG.Train[tid = 0].numCar = 8	trainUtilization[tid = 0] = 0.33333333333333337
+RG.Train[tid = 1].numCar = 11	trainUtilization[tid = 1] = 9.23103000546513
+PercentType1 = 93.84379165873166 PercentType2 = 2.5076969466133425 PercentType3 = 2.9722116422268767 PercentType4 = 0.6762997524281088
+ Total Cost = $/day 11480.0
+
+Number of Trains = 3
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 15.80725124468238
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 21.161618034902325
+RG.Train[tid = 2].numCar = 5	trainUtilization[tid = 2] = 27.339971446818055
+
+
+Number of Trains = 3
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 8.790589858424308
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 13.918119420030681
+RG.Train[tid = 2].numCar = 6	trainUtilization[tid = 2] = 13.737110459147269
+
+
+Number of Trains = 3
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 4.444592283760411
+RG.Train[tid = 1].numCar = 6	trainUtilization[tid = 1] = 9.662479162635245
+RG.Train[tid = 2].numCar = 6	trainUtilization[tid = 2] = 11.981778337488453
+
+
+Number of Trains = 3
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 5	trainUtilization[tid = 0] = 2.3338028083119107
+RG.Train[tid = 1].numCar = 6	trainUtilization[tid = 1] = 4.551692942344547
+RG.Train[tid = 2].numCar = 7	trainUtilization[tid = 2] = 7.533101668204691
+PercentType1 = 95.78496383504456 PercentType2 = 2.257542018722808 PercentType3 = 1.6951810601465933 PercentType4 = 0.26231308608600157
+ Total Cost = $/day 11760.0
+
+Number of Trains = 4
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 13.238569288141047
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 14.549958883144082
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 14.324212220702316
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 18.61255330808946
+
+
+Number of Trains = 4
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 10.087340320379496
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 10.807226906145795
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 9.2488758951553
+RG.Train[tid = 3].numCar = 4	trainUtilization[tid = 3] = 9.395976435792848
+
+
+Number of Trains = 4
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 4	trainUtilization[tid = 0] = 5.141923036156628
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 7.126915930462547
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.80266303590994
+RG.Train[tid = 3].numCar = 4	trainUtilization[tid = 3] = 5.289511354932508
+PercentType1 = 94.34523477947903 PercentType2 = 2.8378665390375657 PercentType3 = 2.0110979828683524 PercentType4 = 0.8058006986150573
+ Total Cost = $/day 12040.0
+
+Number of Trains = 5
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 22.03391557766932
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 35.92792675046191
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 28.482086480682163
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 17.99396043640926
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 15.30777019843263
+
+
+Number of Trains = 5
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 16.33826774733356
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 13.628358799127636
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 22.55250193321502
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 11.43325947156714
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 10.25145550308288
+
+
+Number of Trains = 5
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 10.343941100629019
+RG.Train[tid = 1].numCar = 4	trainUtilization[tid = 1] = 10.587201221467847
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 7.6881001736108034
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 7.40408665888572
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 5.420374710760873
+
+
+Number of Trains = 5
+Number of Cars = 18
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 7.3669861296915276
+RG.Train[tid = 1].numCar = 5	trainUtilization[tid = 1] = 7.942883038389093
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 6.839234877492181
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 5.130962693469713
+RG.Train[tid = 4].numCar = 3	trainUtilization[tid = 4] = 2.9149331425959994
+PercentType1 = 95.47922979075494 PercentType2 = 2.6554267911589546 PercentType3 = 1.7140476696740792 PercentType4 = 0.15129574841203464
+ Total Cost = $/day 13360.0
+
+Number of Trains = 6
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 19.448375783111555
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 25.06587256482406
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 33.687187312158215
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 27.91476052436363
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 15.449473095780112
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 21.99558899601945
+
+
+Number of Trains = 6
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 13.12812691285831
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 17.700714733172667
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 11.271215648332113
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 18.514350108115963
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 10.232413896110113
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 15.40622399019299
+
+
+Number of Trains = 6
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 8.305170841999061
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 11.681967313658756
+RG.Train[tid = 2].numCar = 4	trainUtilization[tid = 2] = 8.08006008332147
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 7.906356476911229
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 6.96831344658847
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 11.448089416689536
+PercentType1 = 92.58211980736431 PercentType2 = 3.692041653869075 PercentType3 = 2.9674474791990835 PercentType4 = 0.7583910595675437
+ Total Cost = $/day 13640.0
+
+Number of Trains = 7
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 17.604147784713017
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 26.004949856358934
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 28.285338433377156
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 26.24061862200826
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 16.193207810475677
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 22.983795937645993
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 20.403860010248344
+
+
+Number of Trains = 7
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 12.25040022816431
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 18.14371991290564
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 14.831151605479812
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 18.43999866267121
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 11.954078509328998
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 14.893410974497453
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 13.382246045897077
+
+
+Number of Trains = 7
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 3	trainUtilization[tid = 0] = 7.992594132550742
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 12.686521120785052
+RG.Train[tid = 2].numCar = 3	trainUtilization[tid = 2] = 8.483435367873799
+RG.Train[tid = 3].numCar = 3	trainUtilization[tid = 3] = 8.471260446058343
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 7.573473326722203
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 10.549336530261336
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 8.219315919239474
+PercentType1 = 92.95649390661595 PercentType2 = 3.651299458380655 PercentType3 = 2.8428343731223706 PercentType4 = 0.5493722618810125
+ Total Cost = $/day 14440.0
+
+Number of Trains = 8
+Number of Cars = 15
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 22.014852989047636
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 25.03071804427741
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 26.197604214845665
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 19.075983758731223
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 18.155488565724703
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 21.167889900487673
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 21.364799630569053
+RG.Train[tid = 7].numCar = 1	trainUtilization[tid = 7] = 27.74838027877862
+
+
+Number of Trains = 8
+Number of Cars = 16
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 17.50150244595167
+RG.Train[tid = 1].numCar = 2	trainUtilization[tid = 1] = 17.691665763464016
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 14.686580743359437
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 15.781206534818356
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 13.540472986540852
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 16.094698877194666
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 12.323711290736012
+RG.Train[tid = 7].numCar = 2	trainUtilization[tid = 7] = 12.977329188932677
+
+
+Number of Trains = 8
+Number of Cars = 17
+---------------
+RG.Train[tid = 0].numCar = 2	trainUtilization[tid = 0] = 9.993197231352784
+RG.Train[tid = 1].numCar = 3	trainUtilization[tid = 1] = 10.515510420819215
+RG.Train[tid = 2].numCar = 2	trainUtilization[tid = 2] = 10.747360938037534
+RG.Train[tid = 3].numCar = 2	trainUtilization[tid = 3] = 9.872423863685523
+RG.Train[tid = 4].numCar = 2	trainUtilization[tid = 4] = 8.393244676747736
+RG.Train[tid = 5].numCar = 2	trainUtilization[tid = 5] = 8.386528626912906
+RG.Train[tid = 6].numCar = 2	trainUtilization[tid = 6] = 7.622052928065391
+RG.Train[tid = 7].numCar = 2	trainUtilization[tid = 7] = 8.306032316020874
+PercentType1 = 94.3801355438538 PercentType2 = 3.1389841260073155 PercentType3 = 2.052872066972472 PercentType4 = 0.4280082631664116
+ Total Cost = $/day 15240.0
